@@ -17,7 +17,7 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 ----------
 
 ###  :gear: Função
-- [x] Calcular o combustível mais econômico no momento.
+- [x] Calcular o combustível mais econômico.
 
 ----------
 
